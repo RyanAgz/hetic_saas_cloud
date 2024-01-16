@@ -8,9 +8,9 @@ def main():
     return "Ryan AGZ"
 
 
-@app. route('/', methods = ['GET', 'POST'])
-def main():
-    return "Ryan AGZ"
+# @app. route('/', methods = ['GET', 'POST'])
+# def main():
+#     return "Bienvenue"
 
 
 if __name__ == '__main__':
